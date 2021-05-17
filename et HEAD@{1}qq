@@ -1,0 +1,36 @@
+[33m50a541d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{0}: reset: moving to 50a541d2f7a
+[33mfff6d3b[m HEAD@{1}: commit: sdsd11
+[33m50a541d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{2}: reset: moving to 50a541d2f7a3
+[33m50a4089[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{3}: reset: moving to HEAD@{3}
+[33m50a541d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{4}: reset: moving to HEAD@{1}
+[33m50a541d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{5}: reset: moving to HEAD@{0}
+[33m50a541d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{6}: reset: moving to 50a541d2f7a
+[33m50a4089[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{7}: reset: moving to 50a4089d185
+[33mc86020a[m HEAD@{8}: commit: sdsdsd
+[33m50a4089[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{9}: reset: moving to 50a4089d18
+[33m814c4a1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{10}: reset: moving to 814c4a13d2a438
+[33mfaf8f63[m HEAD@{11}: reset: moving to HEAD@{3}
+[33m50a4089[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{12}: reset: moving to 50a4089d185105576397
+[33m50a4089[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{13}: reset: moving to 50a4089d185105576397
+[33m814c4a1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{14}: reset: moving to 814c4a13d2a438
+[33mfaf8f63[m HEAD@{15}: commit: testing revert
+[33m814c4a1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{16}: reset: moving to HEAD@{4}
+[33mf1ea0f3[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{17}: reset: moving to HEAD@{5}
+[33mcba9e2e[m HEAD@{18}: reset: moving to HEAD@{6}
+[33m814c4a1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{19}: checkout: moving from master_feature to dev
+[33md0fd384[m[33m ([m[1;31morigin/master_feature[m[33m, [m[1;32mmaster_feature[m[33m)[m HEAD@{20}: commit: sdsdsdsds
+[33m814c4a1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{21}: checkout: moving from main to master_feature
+[33m814c4a1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{22}: merge dev: Fast-forward
+[33mf1ea0f3[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{23}: checkout: moving from dev to main
+[33m814c4a1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{24}: reset: moving to 814c4a13d2a43
+[33mcba9e2e[m HEAD@{25}: commit: not thsi version
+[33m814c4a1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{26}: checkout: moving from main to dev
+[33mf1ea0f3[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{27}: checkout: moving from feature to main
+[33m50a4089[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{28}: checkout: moving from main to feature
+[33mf1ea0f3[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{29}: checkout: moving from dev to main
+[33m814c4a1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{30}: pull: Fast-forward
+[33m50a541d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{31}: checkout: moving from feature to dev
+[33m50a4089[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{32}: commit: sdsd pull
+[33m50a541d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{33}: checkout: moving from dev to feature
+[33m50a541d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{34}: commit: sdsdsd
+[33mf1ea0f3[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{35}: clone: from https://github.com/SHL1234/testing3.git
